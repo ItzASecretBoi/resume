@@ -31,7 +31,7 @@
   </a>
 
   <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/fl-studio.png" alt="fl studio" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=IDLlkG5VGOjL&format=png&color=000000" alt="fl studio" width="40" height="40"/>
   </a>
   
 </p>
