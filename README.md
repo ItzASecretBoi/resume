@@ -37,6 +37,12 @@
   </a>
 </p>
 
+  <!-- Blueprint badge -->
+  <span style="display:inline-block; margin-left: 8px; font-weight:bold;">
+    Blueprint (Unreal)
+  </span>
+</p>
+
 <h3 align="left">Other Tools:</h3>
 <p align="left">
   <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer">
