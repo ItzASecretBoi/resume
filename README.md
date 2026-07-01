@@ -38,7 +38,7 @@
   </a>
 </p>
 
-___
+<hr/>
 
 <h3 align="left">Featured Projects:</h3>
 
