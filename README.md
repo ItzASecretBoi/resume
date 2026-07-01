@@ -38,8 +38,6 @@
   </a>
 </p>
 
-<hr/>
-
 <h1 align="left">Featured Projects:</h1>
 
 <p align="left">
