@@ -3,9 +3,9 @@
 
 - Currently obsessed with **Unreal Engine & Godot Engine**
 
-- Feel free to reach out to me at **lyndaylehumphery@gmail.com**
-
 - Fun fact, **I have 4.5k hours on Rimworld at the time of writing this.**
+
+- Feel free to reach out to me at **lyndaylehumphery@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
