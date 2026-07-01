@@ -37,8 +37,6 @@
 
 ![GDScript](https://img.shields.io/badge/GDScript-2d2d2d?style=for-the-badge&logo=godot%20engine&logoColor=478CBF)
 
-</p>
-
 <h3 align="left">Other Tools:</h3>
 <p align="left">
   <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer">
