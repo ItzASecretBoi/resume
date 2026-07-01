@@ -51,7 +51,7 @@
 
 <br/>
 <br/>
-
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
   Simple FPS Template was originally indended to be, well... a simple FPS template, but during my time working on this, I ended up becoming absolutely obsessed with inventory systems, so... I made one! I wanted to make a hotbar inventory system simular to a little indie game you may have heard of called Minecraft. While this inventory system **certainly** can be improved, it honestly taught me so much about data organization, and how to structure an inventory systems, I think inventories will always be so varied depending on the context of the game, so making a perfect one is **very** difficult, It's probally still standing in the rankings of the one of the more challenging things I've worked on. I'm still kind of proud of it, but I also look forward to making a new and improved version someday. I also worked on a scrolling interaction system, where you can swap between multiple interactions on objects like items or doors, and do different things on interact based on what you select, that was also very fun to work on. All the assets for this project were from asset packs I purchaced! Mainly ones from "PizzaDoggy" on itch.io
 <br/>
   <em>Tech:</em> Unreal Engine, Blueprint
