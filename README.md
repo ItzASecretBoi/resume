@@ -44,6 +44,8 @@
 
 <h1 align="left">Featured Projects:</h1>
 <p align="left">
+
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2"><strong>Pills</strong></a><br/>
   
 <img width="714" height="714" alt="20260701-0121-08 9032374-ezgif com-speed" src="https://github.com/user-attachments/assets/0ba7a27f-48b5-4566-a4b0-21dfbc3939ff" />
   
