@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Lyndayle "Tank" Humphery</h1>
+<h1 align="left">Hi, I'm Lyndayle "Tank" Humphery</h1>
 <h3 align="left">A passionate game developer.</h3>
 
 <br/>
