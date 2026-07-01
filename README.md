@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
   </a>
 
-  <br/><br/>
+  <br/>
 
   <!-- Project description -->
   Simple FPS Template was originally intended to be, well... a simple FPS template, but during my time working on this I ended up becoming absolutely obsessed with inventory systems, so I made one!  
