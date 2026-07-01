@@ -96,7 +96,7 @@
   <em>Tech:</em> Unreal Engine, Blueprint
 </p>
 
-<br/><br/>
+<br/>
 
 <!-- Placeholder cards for future projects -->
 <p align="left">
