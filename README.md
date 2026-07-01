@@ -43,9 +43,9 @@
 <br/>
 
 <h1 align="left">Featured Projects:</h1>
-
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1"><strong>Project Title One</strong></a><br/>
+  
+<img width="714" height="714" alt="20260701-0121-08 9032374-ezgif com-optimize (1)" src="https://github.com/user-attachments/assets/548875cd-5477-44db-86d1-47d67ef0ea04" />
 
 <img width="714" height="714" alt="20260701-0121-08 9032374-ezgif com-optimize" src="https://github.com/user-attachments/assets/9682cb02-7016-4520-a4d0-086a19cfd0ff" />
   
