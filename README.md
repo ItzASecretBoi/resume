@@ -28,7 +28,8 @@
   </a>
 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+    <img src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"](https://img.shields.io/badge/C%23?logo=aHR0cHM6Ly9pbWcuaWNvbnM4LmNvbS8%2Fc2l6ZT0xMDAmaWQ9NTUyMDUmZm9ybWF0PXBuZyZjb2xvcj0wMDAwMDA%3D
+)/>
   </a>
 
   <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html" target="_blank" rel="noreferrer">
