@@ -78,8 +78,6 @@
   <!-- Gameplay GIF / image -->
   <img width="714" height="714" alt="Simple FPS Template gameplay preview" src="https://github.com/user-attachments/assets/0ba7a27f-48b5-4566-a4b0-21dfbc3939ff" />
 
-  <br/><br/>
-
   <!-- Tech badge for the project -->
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
