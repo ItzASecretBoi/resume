@@ -3,23 +3,6 @@
 
 <h3 align="left">Featured Projects:</h3>
 
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1"><strong>Project Title One</strong></a><br/>
-  A short description of the project goes here. Explain what it is, what makes it interesting, and what you worked on.<br/>
-  <em>Tech:</em> Godot, GDScript
-</p>
-
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2"><strong>Project Title Two</strong></a><br/>
-  A short description of the project goes here. You can mention gameplay, systems, tools, or what you learned while making it.<br/>
-  <em>Tech:</em> Unreal Engine, Blueprint, C++
-</p>
-
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_3"><strong>Project Title Three</strong></a><br/>
-  A short description of the project goes here. Keep it to 1–2 sentences so the section stays easy to scan.<br/>
-  <em>Tech:</em> C#, FL Studio
-</p>
 
 
 <h3 align="left">Engines:</h3>
@@ -38,6 +21,24 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   </a>
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1"><strong>Project Title One</strong></a><br/>
+  A short description of the project goes here. Explain what it is, what makes it interesting, and what you worked on.<br/>
+  <em>Tech:</em> Godot, GDScript
+</p>
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2"><strong>Project Title Two</strong></a><br/>
+  A short description of the project goes here. You can mention gameplay, systems, tools, or what you learned while making it.<br/>
+  <em>Tech:</em> Unreal Engine, Blueprint, C++
+</p>
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_3"><strong>Project Title Three</strong></a><br/>
+  A short description of the project goes here. Keep it to 1–2 sentences so the section stays easy to scan.<br/>
+  <em>Tech:</em> C#, FL Studio
+</p>
 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAACg0lEQVR4nO2av08UQRSAP4GACkKBGhMNBQXRBjtDg5UxYKVEC2Jig0jpnyBCdVoY1PAHWBA7UUuNlZ1R/JVoRYwgsTCoh8Z4CkM2eSaXdXZ3dnb3dmfhJS+5u+x7c9/u2zcz7w1sy9aRAWAe+Co6L785I4eAO8AGoDT6EOilwNIOTAK/AgDq9TcwA3RRIGkCLgCfDQD8+gW4DLTkDXECeGUB4Nd3wLk8AA5LrKuU9RHQ3wiAbontPxlA/NN1SRYHsgBolVj+liGAX39I8tiVBsAOid3FBgIony4BlySpWMkx4GmOAMqnz4DBuE/hesiElqduANdMQSYSDvYRuAUMSXbzJso24CBwEqgAHxKOcdEE5K2l82UZoNlgDO+a0QRAr01AahaO7wN7iC+ezZzFeDUT53Gd3kySUeSdvGExbqTEfRJJIOphnuQFshwSTvuBaWBBJrY14AUwBezzXdsD3LXIkpFi6mgswP4sUA2x8zZZZ4DdwBXgp+ULHymmKbY5AMLkzv4FVkL+nAr4njqIN0/owinsScS5y6pRIMMau+kUAKIkdZA+jd1LF0E6NHZrCcMql9DSpd2qiyB9GrsFF0NrWGM35SLIbY2dN2N/dy20lgJqUSNSPHBmQlTAeID9SESRYhU4XZQligI+hSwa9wJXgeeSlqvyeVJKSoVaNCrgQRmW8apu3ZV0YzWTRWjVLJx65dNOC4hOCatMtrpvLF++FSmkmVTWvWvOy3Ygs+LDuKXz+p3jLHAKOCLrsp3SABqSmpktgIrY1P0nlQIX6CqUoGR6nK1cxC5VW6F0jZ5Gtd4eA0dxuBn6Pq9maOna06U6MFC6IxxRh2ruuXaoZltIIJswbZ297D2UbAAAAABJRU5ErkJggg==" alt="C#"/>
